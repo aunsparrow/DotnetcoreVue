@@ -12,6 +12,7 @@ namespace DotnetcoreVue.Controllers
     {
         public IActionResult Index()
         {
+            //test
             return View();
         }
 
